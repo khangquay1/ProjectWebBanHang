@@ -87,4 +87,10 @@ body {
     font-size: 1.4rem;
     cursor: pointer;
     padding: 4px;
+    color: rgb(78, 123, 247);
+    text-decoration: underline;
+}
+
+.modal__switchRegister:hover, .modal__switchLogin:hover {
+    color: rgb(24, 81, 238);
 }
